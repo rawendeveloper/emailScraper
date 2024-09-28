@@ -12,9 +12,6 @@ Secure email extraction without data collection.
 Installation
 Clone the repository:
 
-bash
-Copier le code
-git clone https://github.com/yourusername/emailscraper-extension.git
 Open Chrome Extension Management:
 
 Navigate to chrome://extensions/ in your Chrome browser.
