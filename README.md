@@ -1,6 +1,4 @@
 
-Here’s a template for your Email Scraper Chrome Extension README file:
-
 Email Scraper Chrome Extension
 Overview
 The Email Scraper is a Chrome extension that allows users to scrape email addresses from any web page with a single click. This extension is designed to quickly extract visible email addresses from the HTML content of a page and display them in an easy-to-read format.
